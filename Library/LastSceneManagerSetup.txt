@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SyncPos_LegacyRpc/Scenes/SyncObjPos.unity
+  isLoaded: 1
+  isActive: 1
